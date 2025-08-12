@@ -267,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Khizer Jahangir Khan**
 - GitHub: [@khizer-flow](https://github.com/khizer-flow)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/khizerjahangir2001)
+- LinkedIn: [My LinkedIn](https://linkedin.com/in/khizerjahangir2001)
 
 ## 🙏 Acknowledgments
 
